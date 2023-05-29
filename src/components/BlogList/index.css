@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.blog-list-container {
+  width: 80%;
+}
